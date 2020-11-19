@@ -1,0 +1,44 @@
+body{
+   background-image: linear-gradient(hotpink, white);
+    text-align: center;
+       
+}
+h1{
+    color: aqua;
+    font-size: 50;
+}
+#parrot{
+    color: #de3163;
+    font-size: 50;
+    font-family: Dancing Script, cursive;
+}
+
+img{
+    width: 700px;
+    height: 700px;
+    padding-left: 60px;
+}
+
+h4{
+color: #de3163;
+    font-size: 50;
+    font-family: Dancing Script, Cursive;
+}
+
+#me{
+ color: deeppink;
+    font-size: 100px;
+    font-family: Dancing Script, Cursive;
+}
+
+hr{
+    Background-color: deeppink;
+    color: aqua;
+    border-style:solid;
+    height: 20px;
+    border-width: thick;
+}
+
+#anisa{
+border-radius: 50%;
+}
